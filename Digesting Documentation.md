@@ -1,4 +1,4 @@
-# Module Name: Pondering Paths
+# Module Name: Digesting Documentation
 
 ## Challenge 1: Learning from Documentation
 The challenge requires you run a program with an argument.
@@ -195,3 +195,4 @@ I learnt that you can search specific commands using the help command which will
 
 ### References 
 NIL
+
